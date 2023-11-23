@@ -4,7 +4,6 @@
 
 * Unity-Gain OpAmp circuit to bring audio from your Breadboard to the synthesizer
 * Attach your patch cables hassle-free
-* Reverse polarity protection diodes and pull-down resistors can be bridged
 * Uses THT for easy assembly
 
 
